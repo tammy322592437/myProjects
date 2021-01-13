@@ -1,0 +1,1071 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="FoodOrganizationsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Epicenter">
+          <Key>
+            <PropertyRef Name="Epicenter_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="int" Nullable="false" />
+          <Property Name="Epicenter_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Epicenter_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Epicenter_Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Pickup_Time" Type="time" Precision="7" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Food_Type">
+          <Key>
+            <PropertyRef Name="Food_Type" />
+          </Key>
+          <Property Name="Food_Type" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Food_Type_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Meals_Menu">
+          <Key>
+            <PropertyRef Name="Meals_Menu_Kod" />
+          </Key>
+          <Property Name="Meals_Menu_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Organization_Kod" Type="int" Nullable="false" />
+          <Property Name="Food_Type" Type="int" Nullable="false" />
+          <Property Name="Amount" Type="int" Nullable="false" />
+          <Property Name="Status" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Needy">
+          <Key>
+            <PropertyRef Name="Needy_Kod" />
+          </Key>
+          <Property Name="Needy_Kod" Type="int" Nullable="false" />
+          <Property Name="Number_Of_Persons" Type="int" Nullable="false" />
+          <Property Name="ExpireDate" Type="date" />
+          <Property Name="NeedyDescribe" Type="nvarchar(max)" />
+          <Property Name="AmountToHelp" Type="int" />
+          <Property Name="QuantityUsed" Type="int" />
+        </EntityType>
+        <EntityType Name="Organization">
+          <Key>
+            <PropertyRef Name="Organization_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Organization_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Organization_City" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Organization_Logo" Type="nvarchar" MaxLength="200" Nullable="false" />
+          <Property Name="Organization_Describe" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Organization_Days">
+          <Key>
+            <PropertyRef Name="Organization_Kod" />
+          </Key>
+          <Property Name="Sunday" Type="bit" Nullable="false" />
+          <Property Name="Monday" Type="bit" Nullable="false" />
+          <Property Name="Tuesday" Type="bit" Nullable="false" />
+          <Property Name="Wednesday" Type="bit" Nullable="false" />
+          <Property Name="Thursday" Type="bit" Nullable="false" />
+          <Property Name="Friday" Type="bit" Nullable="false" />
+          <Property Name="Saturday" Type="bit" Nullable="false" />
+          <Property Name="Organization_Kod" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Organizer">
+          <Key>
+            <PropertyRef Name="Organizer_Kod" />
+          </Key>
+          <Property Name="Organizer_Kod" Type="int" Nullable="false" />
+          <Property Name="Organizer_Id" Type="nchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Selected_Menu_For_Help">
+          <Key>
+            <PropertyRef Name="Selected_Menu_For_Help_Kod" />
+          </Key>
+          <Property Name="Selected_Menu_For_Help_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Meals_Menu_Kod" Type="int" Nullable="false" />
+          <Property Name="Volunteer_Kod" Type="int" />
+          <Property Name="Application_Date" Type="date" Nullable="false" />
+          <Property Name="Needy_Kod" Type="int" Nullable="false" />
+          <Property Name="Organizer_Kod" Type="int" Nullable="false" />
+          <Property Name="Organization_Kod" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Status_Food">
+          <Key>
+            <PropertyRef Name="Status_Kod" />
+          </Key>
+          <Property Name="Status_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Status_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Type_User">
+          <Key>
+            <PropertyRef Name="Type_Id" />
+          </Key>
+          <Property Name="Type_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Type_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="User_kod" />
+          </Key>
+          <Property Name="User_kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="First_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Last_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="HomeTown" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Telephone" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="Is_Active" Type="bit" Nullable="false" />
+          <Property Name="User_Type" Type="int" Nullable="false" />
+          <Property Name="OrganizationKod" Type="int" Nullable="false" />
+          <Property Name="TypeMessage" Type="int" />
+        </EntityType>
+        <EntityType Name="Volunteer">
+          <Key>
+            <PropertyRef Name="Volunteer_Kod" />
+          </Key>
+          <Property Name="Volunteer_Kod" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Volunteer_Organizations">
+          <Key>
+            <PropertyRef Name="Volunteer_Organizations_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="int" Nullable="false" />
+          <Property Name="Volunteer_Kod" Type="int" Nullable="false" />
+          <Property Name="Epicenter_Kod" Type="int" Nullable="false" />
+          <Property Name="Volunteer_Organizations_Kod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Epicenter_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Epicenter" Type="Self.Epicenter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Epicenter">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Food_Type">
+          <End Role="Food_Type" Type="Self.Food_Type" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Food_Type">
+              <PropertyRef Name="Food_Type" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Food_Type" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Status_Food">
+          <End Role="Status_Food" Type="Self.Status_Food" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Status_Food">
+              <PropertyRef Name="Status_Kod" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Status" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Needy_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Needy" Type="Self.Needy" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Needy">
+              <PropertyRef Name="Needy_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Organization_Days_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Organization_Days" Type="Self.Organization_Days" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Organization_Days">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Organizer_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Organizer" Type="Self.Organizer" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Organizer">
+              <PropertyRef Name="Organizer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Meals_Menu">
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Meals_Menu">
+              <PropertyRef Name="Meals_Menu_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Meals_Menu_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Needy">
+          <End Role="Needy" Type="Self.Needy" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Needy">
+              <PropertyRef Name="Needy_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Needy_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Organizer">
+          <End Role="Organizer" Type="Self.Organizer" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organizer">
+              <PropertyRef Name="Organizer_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Organizer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Volunteer">
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="0..1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="User" Type="Self.User" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="User">
+              <PropertyRef Name="OrganizationKod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Epicenter">
+          <End Role="Epicenter" Type="Self.Epicenter" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Epicenter">
+              <PropertyRef Name="Epicenter_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Epicenter_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Volunteer">
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="FoodOrganizationsModelStoreContainer">
+          <EntitySet Name="Epicenter" EntityType="Self.Epicenter" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Food_Type" EntityType="Self.Food_Type" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Meals_Menu" EntityType="Self.Meals_Menu" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Needy" EntityType="Self.Needy" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Organization" EntityType="Self.Organization" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Organization_Days" EntityType="Self.Organization_Days" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Organizer" EntityType="Self.Organizer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Selected_Menu_For_Help" EntityType="Self.Selected_Menu_For_Help" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Status_Food" EntityType="Self.Status_Food" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Type_User" EntityType="Self.Type_User" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Volunteer" EntityType="Self.Volunteer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Volunteer_Organizations" EntityType="Self.Volunteer_Organizations" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Epicenter_Organization" Association="Self.FK_Epicenter_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Epicenter" EntitySet="Epicenter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Food_Type" Association="Self.FK_Meals_Menu_Food_Type">
+            <End Role="Food_Type" EntitySet="Food_Type" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Organization" Association="Self.FK_Meals_Menu_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Status_Food" Association="Self.FK_Meals_Menu_Status_Food">
+            <End Role="Status_Food" EntitySet="Status_Food" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Needy_User" Association="Self.FK_Needy_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="Needy" EntitySet="Needy" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Organization_Days_Organization" Association="Self.FK_Organization_Days_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Organization_Days" EntitySet="Organization_Days" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Organizer_User" Association="Self.FK_Organizer_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="Organizer" EntitySet="Organizer" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Meals_Menu" Association="Self.FK_Selected_Menu_For_Help_Meals_Menu">
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Needy" Association="Self.FK_Selected_Menu_For_Help_Needy">
+            <End Role="Needy" EntitySet="Needy" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Organization" Association="Self.FK_Selected_Menu_For_Help_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Organizer" Association="Self.FK_Selected_Menu_For_Help_Organizer">
+            <End Role="Organizer" EntitySet="Organizer" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Volunteer" Association="Self.FK_Selected_Menu_For_Help_Volunteer">
+            <End Role="Volunteer" EntitySet="Volunteer" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Organization" Association="Self.FK_User_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="User" EntitySet="User" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Epicenter" Association="Self.FK_Volunteer_Organizations_Epicenter">
+            <End Role="Epicenter" EntitySet="Epicenter" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Organization" Association="Self.FK_Volunteer_Organizations_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Volunteer" Association="Self.FK_Volunteer_Organizations_Volunteer">
+            <End Role="Volunteer" EntitySet="Volunteer" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_User" Association="Self.FK_Volunteer_User">
+            <End Role="User" EntitySet="User" />
+            <End Role="Volunteer" EntitySet="Volunteer" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="FoodOrganizationsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Epicenter">
+          <Key>
+            <PropertyRef Name="Epicenter_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Epicenter_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Epicenter_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Epicenter_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Pickup_Time" Type="Time" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_Epicenter_Organization" FromRole="Epicenter" ToRole="Organization" />
+          <NavigationProperty Name="Volunteer_Organizations" Relationship="Self.FK_Volunteer_Organizations_Epicenter" FromRole="Epicenter" ToRole="Volunteer_Organizations" />
+        </EntityType>
+        <EntityType Name="Food_Type">
+          <Key>
+            <PropertyRef Name="Food_Type1" />
+          </Key>
+          <Property Name="Food_Type1" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Food_Type_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Meals_Menu" Relationship="Self.FK_Meals_Menu_Food_Type" FromRole="Food_Type" ToRole="Meals_Menu" />
+        </EntityType>
+        <EntityType Name="Meals_Menu">
+          <Key>
+            <PropertyRef Name="Meals_Menu_Kod" />
+          </Key>
+          <Property Name="Meals_Menu_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Food_Type" Type="Int32" Nullable="false" />
+          <Property Name="Amount" Type="Int32" Nullable="false" />
+          <Property Name="Status" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Food_Type1" Relationship="Self.FK_Meals_Menu_Food_Type" FromRole="Meals_Menu" ToRole="Food_Type" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_Meals_Menu_Organization" FromRole="Meals_Menu" ToRole="Organization" />
+          <NavigationProperty Name="Status_Food" Relationship="Self.FK_Meals_Menu_Status_Food" FromRole="Meals_Menu" ToRole="Status_Food" />
+          <NavigationProperty Name="Selected_Menu_For_Help" Relationship="Self.FK_Selected_Menu_For_Help_Meals_Menu" FromRole="Meals_Menu" ToRole="Selected_Menu_For_Help" />
+        </EntityType>
+        <EntityType Name="Needy">
+          <Key>
+            <PropertyRef Name="Needy_Kod" />
+          </Key>
+          <Property Name="Needy_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Number_Of_Persons" Type="Int32" Nullable="false" />
+          <Property Name="ExpireDate" Type="DateTime" Precision="0" />
+          <Property Name="NeedyDescribe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="AmountToHelp" Type="Int32" />
+          <Property Name="QuantityUsed" Type="Int32" />
+          <NavigationProperty Name="User" Relationship="Self.FK_Needy_User" FromRole="Needy" ToRole="User" />
+          <NavigationProperty Name="Selected_Menu_For_Help" Relationship="Self.FK_Selected_Menu_For_Help_Needy" FromRole="Needy" ToRole="Selected_Menu_For_Help" />
+        </EntityType>
+        <EntityType Name="Organization">
+          <Key>
+            <PropertyRef Name="Organization_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Organization_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Organization_City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Organization_Logo" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Organization_Describe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Epicenters" Relationship="Self.FK_Epicenter_Organization" FromRole="Organization" ToRole="Epicenter" />
+          <NavigationProperty Name="Meals_Menu" Relationship="Self.FK_Meals_Menu_Organization" FromRole="Organization" ToRole="Meals_Menu" />
+          <NavigationProperty Name="Organization_Days" Relationship="Self.FK_Organization_Days_Organization" FromRole="Organization" ToRole="Organization_Days" />
+          <NavigationProperty Name="Selected_Menu_For_Help" Relationship="Self.FK_Selected_Menu_For_Help_Organization" FromRole="Organization" ToRole="Selected_Menu_For_Help" />
+          <NavigationProperty Name="Users" Relationship="Self.FK_User_Organization" FromRole="Organization" ToRole="User" />
+          <NavigationProperty Name="Volunteer_Organizations" Relationship="Self.FK_Volunteer_Organizations_Organization" FromRole="Organization" ToRole="Volunteer_Organizations" />
+        </EntityType>
+        <EntityType Name="Organization_Days">
+          <Key>
+            <PropertyRef Name="Organization_Kod" />
+          </Key>
+          <Property Name="Sunday" Type="Boolean" Nullable="false" />
+          <Property Name="Monday" Type="Boolean" Nullable="false" />
+          <Property Name="Tuesday" Type="Boolean" Nullable="false" />
+          <Property Name="Wednesday" Type="Boolean" Nullable="false" />
+          <Property Name="Thursday" Type="Boolean" Nullable="false" />
+          <Property Name="Friday" Type="Boolean" Nullable="false" />
+          <Property Name="Saturday" Type="Boolean" Nullable="false" />
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_Organization_Days_Organization" FromRole="Organization_Days" ToRole="Organization" />
+        </EntityType>
+        <EntityType Name="Organizer">
+          <Key>
+            <PropertyRef Name="Organizer_Kod" />
+          </Key>
+          <Property Name="Organizer_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Organizer_Id" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="User" Relationship="Self.FK_Organizer_User" FromRole="Organizer" ToRole="User" />
+          <NavigationProperty Name="Selected_Menu_For_Help" Relationship="Self.FK_Selected_Menu_For_Help_Organizer" FromRole="Organizer" ToRole="Selected_Menu_For_Help" />
+        </EntityType>
+        <EntityType Name="Selected_Menu_For_Help">
+          <Key>
+            <PropertyRef Name="Selected_Menu_For_Help_Kod" />
+          </Key>
+          <Property Name="Selected_Menu_For_Help_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Meals_Menu_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Volunteer_Kod" Type="Int32" />
+          <Property Name="Application_Date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Needy_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Organizer_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Meals_Menu" Relationship="Self.FK_Selected_Menu_For_Help_Meals_Menu" FromRole="Selected_Menu_For_Help" ToRole="Meals_Menu" />
+          <NavigationProperty Name="Needy" Relationship="Self.FK_Selected_Menu_For_Help_Needy" FromRole="Selected_Menu_For_Help" ToRole="Needy" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_Selected_Menu_For_Help_Organization" FromRole="Selected_Menu_For_Help" ToRole="Organization" />
+          <NavigationProperty Name="Organizer" Relationship="Self.FK_Selected_Menu_For_Help_Organizer" FromRole="Selected_Menu_For_Help" ToRole="Organizer" />
+          <NavigationProperty Name="Volunteer" Relationship="Self.FK_Selected_Menu_For_Help_Volunteer" FromRole="Selected_Menu_For_Help" ToRole="Volunteer" />
+        </EntityType>
+        <EntityType Name="Status_Food">
+          <Key>
+            <PropertyRef Name="Status_Kod" />
+          </Key>
+          <Property Name="Status_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Status_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Meals_Menu" Relationship="Self.FK_Meals_Menu_Status_Food" FromRole="Status_Food" ToRole="Meals_Menu" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Type_User">
+          <Key>
+            <PropertyRef Name="Type_Id" />
+          </Key>
+          <Property Name="Type_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Type_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="User_kod" />
+          </Key>
+          <Property Name="User_kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="First_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Last_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="HomeTown" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Telephone" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Is_Active" Type="Boolean" Nullable="false" />
+          <Property Name="User_Type" Type="Int32" Nullable="false" />
+          <Property Name="OrganizationKod" Type="Int32" Nullable="false" />
+          <Property Name="TypeMessage" Type="Int32" />
+          <NavigationProperty Name="Needy" Relationship="Self.FK_Needy_User" FromRole="User" ToRole="Needy" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_User_Organization" FromRole="User" ToRole="Organization" />
+          <NavigationProperty Name="Organizer" Relationship="Self.FK_Organizer_User" FromRole="User" ToRole="Organizer" />
+          <NavigationProperty Name="Volunteer" Relationship="Self.FK_Volunteer_User" FromRole="User" ToRole="Volunteer" />
+        </EntityType>
+        <EntityType Name="Volunteer">
+          <Key>
+            <PropertyRef Name="Volunteer_Kod" />
+          </Key>
+          <Property Name="Volunteer_Kod" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Selected_Menu_For_Help" Relationship="Self.FK_Selected_Menu_For_Help_Volunteer" FromRole="Volunteer" ToRole="Selected_Menu_For_Help" />
+          <NavigationProperty Name="User" Relationship="Self.FK_Volunteer_User" FromRole="Volunteer" ToRole="User" />
+          <NavigationProperty Name="Volunteer_Organizations" Relationship="Self.FK_Volunteer_Organizations_Volunteer" FromRole="Volunteer" ToRole="Volunteer_Organizations" />
+        </EntityType>
+        <EntityType Name="Volunteer_Organizations">
+          <Key>
+            <PropertyRef Name="Volunteer_Organizations_Kod" />
+          </Key>
+          <Property Name="Organization_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Volunteer_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Epicenter_Kod" Type="Int32" Nullable="false" />
+          <Property Name="Volunteer_Organizations_Kod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Epicenter" Relationship="Self.FK_Volunteer_Organizations_Epicenter" FromRole="Volunteer_Organizations" ToRole="Epicenter" />
+          <NavigationProperty Name="Organization" Relationship="Self.FK_Volunteer_Organizations_Organization" FromRole="Volunteer_Organizations" ToRole="Organization" />
+          <NavigationProperty Name="Volunteer" Relationship="Self.FK_Volunteer_Organizations_Volunteer" FromRole="Volunteer_Organizations" ToRole="Volunteer" />
+        </EntityType>
+        <Association Name="FK_Epicenter_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Epicenter" Type="Self.Epicenter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Epicenter">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Epicenter">
+          <End Role="Epicenter" Type="Self.Epicenter" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Epicenter">
+              <PropertyRef Name="Epicenter_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Epicenter_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Food_Type">
+          <End Role="Food_Type" Type="Self.Food_Type" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Food_Type">
+              <PropertyRef Name="Food_Type1" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Food_Type" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meals_Menu_Status_Food">
+          <End Role="Status_Food" Type="Self.Status_Food" Multiplicity="1" />
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Status_Food">
+              <PropertyRef Name="Status_Kod" />
+            </Principal>
+            <Dependent Role="Meals_Menu">
+              <PropertyRef Name="Status" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Meals_Menu">
+          <End Role="Meals_Menu" Type="Self.Meals_Menu" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Meals_Menu">
+              <PropertyRef Name="Meals_Menu_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Meals_Menu_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Needy_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Needy" Type="Self.Needy" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Needy">
+              <PropertyRef Name="Needy_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Needy">
+          <End Role="Needy" Type="Self.Needy" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Needy">
+              <PropertyRef Name="Needy_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Needy_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Organization_Days_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Organization_Days" Type="Self.Organization_Days" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Organization_Days">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_User_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="User" Type="Self.User" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="User">
+              <PropertyRef Name="OrganizationKod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Organization">
+          <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Organization_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Organization_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Organizer_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Organizer" Type="Self.Organizer" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Organizer">
+              <PropertyRef Name="Organizer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Organizer">
+          <End Role="Organizer" Type="Self.Organizer" Multiplicity="1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organizer">
+              <PropertyRef Name="Organizer_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Organizer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Selected_Menu_For_Help_Volunteer">
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="0..1" />
+          <End Role="Selected_Menu_For_Help" Type="Self.Selected_Menu_For_Help" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Principal>
+            <Dependent Role="Selected_Menu_For_Help">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_User">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="User_kod" />
+            </Principal>
+            <Dependent Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Volunteer_Organizations_Volunteer">
+          <End Role="Volunteer" Type="Self.Volunteer" Multiplicity="1" />
+          <End Role="Volunteer_Organizations" Type="Self.Volunteer_Organizations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Volunteer">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Principal>
+            <Dependent Role="Volunteer_Organizations">
+              <PropertyRef Name="Volunteer_Kod" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="FoodOrganizationsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Epicenters" EntityType="Self.Epicenter" />
+          <EntitySet Name="Food_Type" EntityType="Self.Food_Type" />
+          <EntitySet Name="Meals_Menu" EntityType="Self.Meals_Menu" />
+          <EntitySet Name="Needies" EntityType="Self.Needy" />
+          <EntitySet Name="Organizations" EntityType="Self.Organization" />
+          <EntitySet Name="Organization_Days" EntityType="Self.Organization_Days" />
+          <EntitySet Name="Organizers" EntityType="Self.Organizer" />
+          <EntitySet Name="Selected_Menu_For_Help" EntityType="Self.Selected_Menu_For_Help" />
+          <EntitySet Name="Status_Food" EntityType="Self.Status_Food" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="Type_User" EntityType="Self.Type_User" />
+          <EntitySet Name="Users" EntityType="Self.User" />
+          <EntitySet Name="Volunteers" EntityType="Self.Volunteer" />
+          <EntitySet Name="Volunteer_Organizations" EntityType="Self.Volunteer_Organizations" />
+          <AssociationSet Name="FK_Epicenter_Organization" Association="Self.FK_Epicenter_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Epicenter" EntitySet="Epicenters" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Epicenter" Association="Self.FK_Volunteer_Organizations_Epicenter">
+            <End Role="Epicenter" EntitySet="Epicenters" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Food_Type" Association="Self.FK_Meals_Menu_Food_Type">
+            <End Role="Food_Type" EntitySet="Food_Type" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Organization" Association="Self.FK_Meals_Menu_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meals_Menu_Status_Food" Association="Self.FK_Meals_Menu_Status_Food">
+            <End Role="Status_Food" EntitySet="Status_Food" />
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Meals_Menu" Association="Self.FK_Selected_Menu_For_Help_Meals_Menu">
+            <End Role="Meals_Menu" EntitySet="Meals_Menu" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Needy_User" Association="Self.FK_Needy_User">
+            <End Role="User" EntitySet="Users" />
+            <End Role="Needy" EntitySet="Needies" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Needy" Association="Self.FK_Selected_Menu_For_Help_Needy">
+            <End Role="Needy" EntitySet="Needies" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Organization_Days_Organization" Association="Self.FK_Organization_Days_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Organization_Days" EntitySet="Organization_Days" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Organization" Association="Self.FK_Selected_Menu_For_Help_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_User_Organization" Association="Self.FK_User_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="User" EntitySet="Users" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Organization" Association="Self.FK_Volunteer_Organizations_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Organizer_User" Association="Self.FK_Organizer_User">
+            <End Role="User" EntitySet="Users" />
+            <End Role="Organizer" EntitySet="Organizers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Organizer" Association="Self.FK_Selected_Menu_For_Help_Organizer">
+            <End Role="Organizer" EntitySet="Organizers" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Selected_Menu_For_Help_Volunteer" Association="Self.FK_Selected_Menu_For_Help_Volunteer">
+            <End Role="Volunteer" EntitySet="Volunteers" />
+            <End Role="Selected_Menu_For_Help" EntitySet="Selected_Menu_For_Help" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_User" Association="Self.FK_Volunteer_User">
+            <End Role="User" EntitySet="Users" />
+            <End Role="Volunteer" EntitySet="Volunteers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Volunteer_Organizations_Volunteer" Association="Self.FK_Volunteer_Organizations_Volunteer">
+            <End Role="Volunteer" EntitySet="Volunteers" />
+            <End Role="Volunteer_Organizations" EntitySet="Volunteer_Organizations" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="FoodOrganizationsModelStoreContainer" CdmEntityContainer="FoodOrganizationsEntities">
+          <EntitySetMapping Name="Epicenters">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Epicenter">
+              <MappingFragment StoreEntitySet="Epicenter">
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+                <ScalarProperty Name="Epicenter_Kod" ColumnName="Epicenter_Kod" />
+                <ScalarProperty Name="Epicenter_name" ColumnName="Epicenter_name" />
+                <ScalarProperty Name="Epicenter_Address" ColumnName="Epicenter_Address" />
+                <ScalarProperty Name="Pickup_Time" ColumnName="Pickup_Time" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Food_Type">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Food_Type">
+              <MappingFragment StoreEntitySet="Food_Type">
+                <ScalarProperty Name="Food_Type1" ColumnName="Food_Type" />
+                <ScalarProperty Name="Food_Type_Name" ColumnName="Food_Type_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Meals_Menu">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Meals_Menu">
+              <MappingFragment StoreEntitySet="Meals_Menu">
+                <ScalarProperty Name="Meals_Menu_Kod" ColumnName="Meals_Menu_Kod" />
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+                <ScalarProperty Name="Food_Type" ColumnName="Food_Type" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Needies">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Needy">
+              <MappingFragment StoreEntitySet="Needy">
+                <ScalarProperty Name="Needy_Kod" ColumnName="Needy_Kod" />
+                <ScalarProperty Name="Number_Of_Persons" ColumnName="Number_Of_Persons" />
+                <ScalarProperty Name="ExpireDate" ColumnName="ExpireDate" />
+                <ScalarProperty Name="NeedyDescribe" ColumnName="NeedyDescribe" />
+                <ScalarProperty Name="AmountToHelp" ColumnName="AmountToHelp" />
+                <ScalarProperty Name="QuantityUsed" ColumnName="QuantityUsed" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Organizations">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Organization">
+              <MappingFragment StoreEntitySet="Organization">
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+                <ScalarProperty Name="Organization_Name" ColumnName="Organization_Name" />
+                <ScalarProperty Name="Organization_City" ColumnName="Organization_City" />
+                <ScalarProperty Name="Organization_Logo" ColumnName="Organization_Logo" />
+                <ScalarProperty Name="Organization_Describe" ColumnName="Organization_Describe" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Organization_Days">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Organization_Days">
+              <MappingFragment StoreEntitySet="Organization_Days">
+                <ScalarProperty Name="Sunday" ColumnName="Sunday" />
+                <ScalarProperty Name="Monday" ColumnName="Monday" />
+                <ScalarProperty Name="Tuesday" ColumnName="Tuesday" />
+                <ScalarProperty Name="Wednesday" ColumnName="Wednesday" />
+                <ScalarProperty Name="Thursday" ColumnName="Thursday" />
+                <ScalarProperty Name="Friday" ColumnName="Friday" />
+                <ScalarProperty Name="Saturday" ColumnName="Saturday" />
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Organizers">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Organizer">
+              <MappingFragment StoreEntitySet="Organizer">
+                <ScalarProperty Name="Organizer_Kod" ColumnName="Organizer_Kod" />
+                <ScalarProperty Name="Organizer_Id" ColumnName="Organizer_Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Selected_Menu_For_Help">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Selected_Menu_For_Help">
+              <MappingFragment StoreEntitySet="Selected_Menu_For_Help">
+                <ScalarProperty Name="Selected_Menu_For_Help_Kod" ColumnName="Selected_Menu_For_Help_Kod" />
+                <ScalarProperty Name="Meals_Menu_Kod" ColumnName="Meals_Menu_Kod" />
+                <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+                <ScalarProperty Name="Application_Date" ColumnName="Application_Date" />
+                <ScalarProperty Name="Needy_Kod" ColumnName="Needy_Kod" />
+                <ScalarProperty Name="Organizer_Kod" ColumnName="Organizer_Kod" />
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Status_Food">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Status_Food">
+              <MappingFragment StoreEntitySet="Status_Food">
+                <ScalarProperty Name="Status_Kod" ColumnName="Status_Kod" />
+                <ScalarProperty Name="Status_Name" ColumnName="Status_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Type_User">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Type_User">
+              <MappingFragment StoreEntitySet="Type_User">
+                <ScalarProperty Name="Type_Id" ColumnName="Type_Id" />
+                <ScalarProperty Name="Type_Name" ColumnName="Type_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="User_kod" ColumnName="User_kod" />
+                <ScalarProperty Name="First_Name" ColumnName="First_Name" />
+                <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="HomeTown" ColumnName="HomeTown" />
+                <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+                <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+                <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+                <ScalarProperty Name="OrganizationKod" ColumnName="OrganizationKod" />
+                <ScalarProperty Name="TypeMessage" ColumnName="TypeMessage" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Volunteers">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Volunteer">
+              <MappingFragment StoreEntitySet="Volunteer">
+                <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Volunteer_Organizations">
+            <EntityTypeMapping TypeName="FoodOrganizationsModel.Volunteer_Organizations">
+              <MappingFragment StoreEntitySet="Volunteer_Organizations">
+                <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+                <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+                <ScalarProperty Name="Epicenter_Kod" ColumnName="Epicenter_Kod" />
+                <ScalarProperty Name="Volunteer_Organizations_Kod" ColumnName="Volunteer_Organizations_Kod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

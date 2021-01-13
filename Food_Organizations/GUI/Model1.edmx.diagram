@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="89416ecbb9de448783dc24f0025b6d33" Name="Diagram1">
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Type_User" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Epicenter" Width="1.5" PointX="10.125" PointY="13.5" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Food_Type" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Meals_Menu" Width="1.5" PointX="13.125" PointY="8.375" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Needy" Width="1.5" PointX="5.625" PointY="4" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Organization" Width="1.5" PointX="7.875" PointY="7.75" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Organizer" Width="1.5" PointX="5.625" PointY="8.625" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Selected_Menu_For_Help" Width="1.5" PointX="10.125" PointY="5.875" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Status_Food" Width="1.5" PointX="10.875" PointY="2.875" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.User" Width="1.5" PointX="3.375" PointY="7.75" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Volunteer" Width="1.5" PointX="5.625" PointY="13.375" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Volunteer_Organizations" Width="1.5" PointX="12.375" PointY="11.625" />
+        <EntityTypeShape EntityType="Food_OrganizationsModel.Organization_Days" Width="1.5" PointX="10.125" PointY="10" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Volunteer_Organizations_ToTable_2" />
+        <AssociationConnector Association="Food_OrganizationsModel.Organization_Kod" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Meals_Menu_ToTable" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Meals_Menu_ToTable_1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Selected_Menu_For_Help_ToTable" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Needy_User1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Selected_Menu_For_Help_ToTable_1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK__Organizat__Organ__34C8D9D1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Organization_Organizer" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Selected_Menu_For_Help_ToTable_4" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Volunteer_Organizations_ToTable" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Organizer_User1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Selected_Menu_For_Help_ToTable_3" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Selected_Menu_For_Help_ToTable_2" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_User_ToTable" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Volunteer_User1" />
+        <AssociationConnector Association="Food_OrganizationsModel.FK_Volunteer_Organizations_ToTable_1" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

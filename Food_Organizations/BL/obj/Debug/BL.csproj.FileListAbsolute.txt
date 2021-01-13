@@ -1,0 +1,281 @@
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.dll
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+G:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+G:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations.mdf
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Food_Organizations_log.ldf
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+F:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+F:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\הפרויקט\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.dll
+D:\הפרויקט\Food_Organizations\BL\obj\Debug\BL.pdb
+E:\Food_Organizations\BL\bin\Debug\BL.dll
+E:\Food_Organizations\BL\bin\Debug\BL.pdb
+E:\Food_Organizations\BL\bin\Debug\Dal.dll
+E:\Food_Organizations\BL\bin\Debug\DTO.dll
+E:\Food_Organizations\BL\bin\Debug\Dal.pdb
+E:\Food_Organizations\BL\bin\Debug\Dal.dll.config
+E:\Food_Organizations\BL\bin\Debug\DTO.pdb
+E:\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+E:\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Food_Organizations\BL\obj\Debug\BL.dll
+E:\Food_Organizations\BL\obj\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\BL.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\DTO.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\DTO.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\סמינר\Food_Organizations\BL\bin\Debug\BL.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\סמינר\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\סמינר\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.dll
+D:\סמינר\Food_Organizations\BL\obj\Debug\BL.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\BL.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\BL.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\DTO.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.dll.config
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\DTO.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\BL.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\BL.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\DTO.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\Dal.dll.config
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\bin\Debug\DTO.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\BL.dll
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\users\user1\Desktop\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\users\user1\Desktop\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\users\user1\Desktop\Food_Organizations\BL\obj\Debug\BL.dll
+D:\users\user1\Desktop\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\Food_Organizations\BL\bin\Debug\BL.dll
+D:\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Food_Organizations\BL\obj\Debug\BL.dll
+D:\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\BL.dll
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\נחמי\הנחיה\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\נחמי\הנחיה\Food_Organizations\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\נחמי\הנחיה\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\נחמי\הנחיה\Food_Organizations\BL\obj\Debug\BL.dll
+D:\נחמי\הנחיה\Food_Organizations\BL\obj\Debug\BL.pdb
+D:\Food_Organizations\BL\bin\Debug\DTO.dll.config
+D:\Food_Organizations\BL\bin\Debug\RestSharp.dll
+D:\Food_Organizations\BL\bin\Debug\TextmagicRest.dll
+D:\Food_Organizations\BL\bin\Debug\RestSharp.xml
+D:\Food_Organizations\BL\bin\Debug\BL.dll.config
+D:\Food_Organizations\BL\bin\Debug\jose-jwt.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Food_Organizations\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Food_Organizations\BL\bin\Debug\Nexmo.Api.dll
+D:\Food_Organizations\BL\bin\Debug\System.AppContext.dll
+D:\Food_Organizations\BL\bin\Debug\System.Collections.Immutable.dll
+D:\Food_Organizations\BL\bin\Debug\System.Console.dll
+D:\Food_Organizations\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Food_Organizations\BL\bin\Debug\System.Globalization.Calendars.dll
+D:\Food_Organizations\BL\bin\Debug\System.IO.Compression.dll
+D:\Food_Organizations\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Food_Organizations\BL\bin\Debug\System.IO.FileSystem.dll
+D:\Food_Organizations\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Food_Organizations\BL\bin\Debug\System.Net.Http.dll
+D:\Food_Organizations\BL\bin\Debug\System.Net.Sockets.dll
+D:\Food_Organizations\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Food_Organizations\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Food_Organizations\BL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Food_Organizations\BL\bin\Debug\Newtonsoft.Json.xml
+D:\Food_Organizations\BL\bin\Debug\Nexmo.Api.xml
+D:\Food_Organizations\BL\bin\Debug\System.Collections.Immutable.xml
+D:\Food_Organizations\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Food_Organizations\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\BL.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\BL.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\BL.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Dal.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\DTO.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\jose-jwt.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Newtonsoft.Json.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Nexmo.Api.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\RestSharp.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.AppContext.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Collections.Immutable.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Console.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Globalization.Calendars.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.IO.Compression.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.IO.FileSystem.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Net.Http.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Net.Sockets.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\TextmagicRest.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\DTO.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\DTO.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\EntityFramework.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Newtonsoft.Json.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\Nexmo.Api.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\RestSharp.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Collections.Immutable.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\obj\Debug\BL.csproj.CopyComplete
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\obj\Debug\BL.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\BL\obj\Debug\BL.pdb

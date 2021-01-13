@@ -1,0 +1,160 @@
+D:\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\Food_Organizations\Dal\obj\Debug\Dal.pdb
+D:\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations.mdf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations_log.ldf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.pdb
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations.mdf
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations_log.ldf
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.pdb
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+G:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+G:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+G:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+G:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+G:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.dll
+G:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.pdb
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations.mdf
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\Food_Organizations_log.ldf
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.pdb
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+F:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.dll
+F:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.pdb
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\הפרויקט\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\הפרויקט\Food_Organizations\Dal\obj\Debug\Dal.pdb
+E:\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+E:\Food_Organizations\Dal\bin\Debug\Dal.dll
+E:\Food_Organizations\Dal\bin\Debug\Dal.pdb
+E:\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+E:\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+E:\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\Food_Organizations\Dal\obj\Debug\Dal.dll
+E:\Food_Organizations\Dal\obj\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\obj\Debug\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\obj\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\סמינר\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\סמינר\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\סמינר\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\סמינר\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\סמינר\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\סמינר\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\סמינר\Food_Organizations\Dal\obj\Debug\Dal.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\Dal.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\Dal\obj\Debug\Dal.pdb
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\users\user1\Desktop\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\users\user1\Desktop\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\users\user1\Desktop\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\users\user1\Desktop\Food_Organizations\Dal\obj\Debug\Dal.pdb
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\נחמי\הנחיה\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\נחמי\הנחיה\Food_Organizations\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\נחמי\הנחיה\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\נחמי\הנחיה\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\נחמי\הנחיה\Food_Organizations\Dal\obj\Debug\Dal.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\Dal.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\EntityFramework.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\EntityFramework.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\obj\Debug\Dal.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\Dal\obj\Debug\Dal.pdb

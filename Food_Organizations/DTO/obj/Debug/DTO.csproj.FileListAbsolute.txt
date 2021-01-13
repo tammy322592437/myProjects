@@ -1,0 +1,167 @@
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations.mdf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations_log.ldf
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.pdb
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations.mdf
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations_log.ldf
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.dll
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.pdb
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.pdb
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+G:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+G:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+G:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.dll
+G:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.pdb
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations.mdf
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\Food_Organizations_log.ldf
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.dll
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.pdb
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.pdb
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+F:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+F:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.dll
+F:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\הפרויקט\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\הפרויקט\Food_Organizations\DTO\obj\Debug\DTO.pdb
+E:\Food_Organizations\DTO\bin\Debug\DTO.dll
+E:\Food_Organizations\DTO\bin\Debug\DTO.pdb
+E:\Food_Organizations\DTO\bin\Debug\Dal.dll
+E:\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+E:\Food_Organizations\DTO\bin\Debug\Dal.pdb
+E:\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+E:\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+E:\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Food_Organizations\DTO\obj\Debug\DTO.dll
+E:\Food_Organizations\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\סמינר\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\סמינר\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\סמינר\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\סמינר\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\סמינר\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\סמינר\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\סמינר\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\סמינר\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\סמינר\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\סמינר\Food_Organizations\DTO\obj\Debug\DTO.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\DTO.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\DTO.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.pdb
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\DTO.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\DTO.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.pdb
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.dll
+F:\‏‏תיקיה חדשה (12)\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\users\user1\Desktop\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\users\user1\Desktop\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\users\user1\Desktop\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\users\user1\Desktop\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\נחמי\הנחיה\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\נחמי\הנחיה\Food_Organizations\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\נחמי\הנחיה\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\נחמי\הנחיה\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\נחמי\הנחיה\Food_Organizations\DTO\obj\Debug\DTO.pdb
+D:\Food_Organizations\DTO\bin\Debug\DTO.dll.config
+D:\Food_Organizations\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Food_Organizations\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\DTO.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\DTO.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\DTO.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\Dal.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\EntityFramework.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\Dal.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\Dal.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\EntityFramework.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\obj\Debug\DTO.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\DTO\obj\Debug\DTO.pdb

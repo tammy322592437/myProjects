@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Food_OrganizationsModelStoreContainer" CdmEntityContainer="Food_OrganizationsEntities">
+    <EntitySetMapping Name="Type_User">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Type_User">
+        <MappingFragment StoreEntitySet="Type_User">
+          <ScalarProperty Name="Type_Id" ColumnName="Type_Id" />
+          <ScalarProperty Name="Type_Name" ColumnName="Type_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Epicenter">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Epicenter">
+        <MappingFragment StoreEntitySet="Epicenter">
+          <ScalarProperty Name="Pickup_Time" ColumnName="Pickup_Time" />
+          <ScalarProperty Name="Epicenter_Address" ColumnName="Epicenter_Address" />
+          <ScalarProperty Name="Epicenter_name" ColumnName="Epicenter_name" />
+          <ScalarProperty Name="Epicenter_Kod" ColumnName="Epicenter_Kod" />
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Food_Type">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Food_Type">
+        <MappingFragment StoreEntitySet="Food_Type">
+          <ScalarProperty Name="Food_Type_Name" ColumnName="Food_Type_Name" />
+          <ScalarProperty Name="Food_Type1" ColumnName="Food_Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Meals_Menu">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Meals_Menu">
+        <MappingFragment StoreEntitySet="Meals_Menu">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Food_Type" ColumnName="Food_Type" />
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+          <ScalarProperty Name="Meals_Menu_Kod" ColumnName="Meals_Menu_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Needy">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Needy">
+        <MappingFragment StoreEntitySet="Needy">
+          <ScalarProperty Name="Entry_Date" ColumnName="Entry_Date" />
+          <ScalarProperty Name="Number_Of_Persons" ColumnName="Number_Of_Persons" />
+          <ScalarProperty Name="Needy_Kod" ColumnName="Needy_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Organization">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Organization">
+        <MappingFragment StoreEntitySet="Organization">
+          <ScalarProperty Name="Epicenter" ColumnName="Epicenter" />
+          <ScalarProperty Name="Organization_Days" ColumnName="Organization_Days" />
+          <ScalarProperty Name="Organization_Describe" ColumnName="Organization_Describe" />
+          <ScalarProperty Name="Organization_Logo" ColumnName="Organization_Logo" />
+          <ScalarProperty Name="Organizer_Kod" ColumnName="Organizer_Kod" />
+          <ScalarProperty Name="Organization_City" ColumnName="Organization_City" />
+          <ScalarProperty Name="Organization_Name" ColumnName="Organization_Name" />
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Organizer">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Organizer">
+        <MappingFragment StoreEntitySet="Organizer">
+          <ScalarProperty Name="Organizer_Id" ColumnName="Organizer_Id" />
+          <ScalarProperty Name="Organizer_Kod" ColumnName="Organizer_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Selected_Menu_For_Help">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Selected_Menu_For_Help">
+        <MappingFragment StoreEntitySet="Selected_Menu_For_Help">
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+          <ScalarProperty Name="Organizer_Kod" ColumnName="Organizer_Kod" />
+          <ScalarProperty Name="Needy_Kod" ColumnName="Needy_Kod" />
+          <ScalarProperty Name="Application_Date" ColumnName="Application_Date" />
+          <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+          <ScalarProperty Name="Meals_Menu_Kod" ColumnName="Meals_Menu_Kod" />
+          <ScalarProperty Name="Selected_Menu_For_Help_Kod" ColumnName="Selected_Menu_For_Help_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status_Food">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Status_Food">
+        <MappingFragment StoreEntitySet="Status_Food">
+          <ScalarProperty Name="Status_Name" ColumnName="Status_Name" />
+          <ScalarProperty Name="Status_Kod" ColumnName="Status_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="HomeTown" ColumnName="HomeTown" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+          <ScalarProperty Name="First_Name" ColumnName="First_Name" />
+          <ScalarProperty Name="User_kod" ColumnName="User_kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Volunteer">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Volunteer">
+        <MappingFragment StoreEntitySet="Volunteer">
+          <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Volunteer_Organizations">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Volunteer_Organizations">
+        <MappingFragment StoreEntitySet="Volunteer_Organizations">
+          <ScalarProperty Name="Volunteer_Organizations_Kod" ColumnName="Volunteer_Organizations_Kod" />
+          <ScalarProperty Name="Epicenter_Kod" ColumnName="Epicenter_Kod" />
+          <ScalarProperty Name="Volunteer_Kod" ColumnName="Volunteer_Kod" />
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Organization_Days">
+      <EntityTypeMapping TypeName="Food_OrganizationsModel.Organization_Days">
+        <MappingFragment StoreEntitySet="Organization_Days">
+          <ScalarProperty Name="Organization_Kod" ColumnName="Organization_Kod" />
+          <ScalarProperty Name="Saturday" ColumnName="Saturday" />
+          <ScalarProperty Name="Friday" ColumnName="Friday" />
+          <ScalarProperty Name="Thursday" ColumnName="Thursday" />
+          <ScalarProperty Name="Wednesday" ColumnName="Wednesday" />
+          <ScalarProperty Name="Tuesday" ColumnName="Tuesday" />
+          <ScalarProperty Name="Monday" ColumnName="Monday" />
+          <ScalarProperty Name="Sunday" ColumnName="Sunday" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

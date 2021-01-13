@@ -1,0 +1,1020 @@
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\GUI.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\GUI.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\GUI.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.rsp
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.rsp
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\BL.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\DTO.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\WebGrease.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Dal.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\BL.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\DTO.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Dal.pdb
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\bin\Dal.dll.config
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.dll
+Y:\תשפ\3\תמי שוויצה\תמי שוויצה\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\Food_Organizations.mdf
+G:\הפרויקט\Food_Organizations\GUI\bin\Food_Organizations_log.ldf
+G:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll.config
+G:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\GUI.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.rsp
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.rsp
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+G:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+G:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\BL.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\DTO.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\WebGrease.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll
+G:\הפרויקט\Food_Organizations\GUI\bin\BL.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\DTO.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\הפרויקט\Food_Organizations\GUI\bin\Dal.pdb
+G:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll.config
+G:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+G:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+G:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.dll
+G:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll.config
+F:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\GUI.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.rsp
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.rsp
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+F:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+F:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\BL.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\DTO.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\WebGrease.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll
+F:\הפרויקט\Food_Organizations\GUI\bin\BL.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\DTO.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\הפרויקט\Food_Organizations\GUI\bin\Dal.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll.config
+F:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.dll
+F:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.pdb
+F:\הפרויקט\Food_Organizations\GUI\bin\Food_Organizations.mdf
+F:\הפרויקט\Food_Organizations\GUI\bin\Food_Organizations_log.ldf
+D:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll.config
+D:\הפרויקט\Food_Organizations\GUI\bin\GUI.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\GUI.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\הפרויקט\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\BL.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\DTO.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\WebGrease.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\BL.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\DTO.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\הפרויקט\Food_Organizations\GUI\bin\Dal.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\Dal.dll.config
+D:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\הפרויקט\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\הפרויקט\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+E:\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Food_Organizations\GUI\obj\Debug\GUI.dll
+E:\Food_Organizations\GUI\obj\Debug\GUI.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\obj\Debug\GUI.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\obj\Debug\GUI.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\GUI.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\GUI.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\GUI.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csc.exe
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csc.rsp
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csi.exe
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\csi.rsp
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.exe
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\BL.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\DTO.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\EntityFramework.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Cors.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Razor.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\WebGrease.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Dal.dll
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\BL.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\DTO.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\EntityFramework.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.Razor.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Dal.pdb
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\bin\Dal.dll.config
+Y:\תשפ\3\בתיה בלומנשטוק\תמי\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\סמינר\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\סמינר\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\סמינר\Food_Organizations\GUI\bin\GUI.dll.config
+D:\סמינר\Food_Organizations\GUI\bin\GUI.dll
+D:\סמינר\Food_Organizations\GUI\bin\GUI.pdb
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\סמינר\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\סמינר\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\סמינר\Food_Organizations\GUI\bin\BL.dll
+D:\סמינר\Food_Organizations\GUI\bin\DTO.dll
+D:\סמינר\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\סמינר\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\סמינר\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\סמינר\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\סמינר\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\סמינר\Food_Organizations\GUI\bin\WebGrease.dll
+D:\סמינר\Food_Organizations\GUI\bin\Dal.dll
+D:\סמינר\Food_Organizations\GUI\bin\BL.pdb
+D:\סמינר\Food_Organizations\GUI\bin\DTO.pdb
+D:\סמינר\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\סמינר\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+D:\סמינר\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\סמינר\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\סמינר\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\סמינר\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\סמינר\Food_Organizations\GUI\bin\Dal.pdb
+D:\סמינר\Food_Organizations\GUI\bin\Dal.dll.config
+D:\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\סמינר\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\GUI\obj\Debug\GUI.dll
+E:\‏‏תיקיה חדשה (12)\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\GUI.dll.config
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\GUI.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\GUI.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\BL.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\DTO.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\WebGrease.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Dal.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\BL.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\DTO.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Dal.pdb
+D:\users\user1\Desktop\Food_Organizations\GUI\bin\Dal.dll.config
+D:\users\user1\Desktop\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\users\user1\Desktop\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\users\user1\Desktop\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\users\user1\Desktop\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\Food_Organizations\GUI\bin\GUI.dll.config
+D:\Food_Organizations\GUI\bin\GUI.dll
+D:\Food_Organizations\GUI\bin\GUI.pdb
+D:\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\Food_Organizations\GUI\bin\BL.dll
+D:\Food_Organizations\GUI\bin\DTO.dll
+D:\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\Food_Organizations\GUI\bin\WebGrease.dll
+D:\Food_Organizations\GUI\bin\Dal.dll
+D:\Food_Organizations\GUI\bin\BL.pdb
+D:\Food_Organizations\GUI\bin\DTO.pdb
+D:\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+D:\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Food_Organizations\GUI\bin\Dal.pdb
+D:\Food_Organizations\GUI\bin\Dal.dll.config
+D:\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\GUI.dll.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\GUI.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\GUI.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\BL.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\DTO.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\WebGrease.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Dal.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\BL.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\DTO.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Dal.pdb
+D:\נחמי\הנחיה\Food_Organizations\GUI\bin\Dal.dll.config
+D:\נחמי\הנחיה\Food_Organizations\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\נחמי\הנחיה\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\נחמי\הנחיה\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\נחמי\הנחיה\Food_Organizations\GUI\obj\Debug\GUI.pdb
+D:\Food_Organizations\GUI\bin\DTO.dll.config
+D:\Food_Organizations\GUI\bin\Nexmo.Api.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Food_Organizations\GUI\bin\jose-jwt.dll
+D:\Food_Organizations\GUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Primitives.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Food_Organizations\GUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Food_Organizations\GUI\bin\BL.dll.config
+D:\Food_Organizations\GUI\bin\Nexmo.Api.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Primitives.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Food_Organizations\GUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Food_Organizations\GUI\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\GUI.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\GUI.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\GUI.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csc.exe
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csc.exe.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csc.rsp
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csi.exe
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csi.exe.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\csi.rsp
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.AppContext.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Console.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.IO.Compression.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Claims.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.ValueTuple.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\vbc.exe
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\vbc.exe.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\vbc.rsp
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Antlr3.Runtime.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\BL.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\DTO.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\EntityFramework.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\EntityFramework.SqlServer.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Newtonsoft.Json.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Net.Http.Formatting.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Cors.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Helpers.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.Cors.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.WebHost.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Mvc.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Optimization.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Razor.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\WebGrease.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Dal.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Nexmo.Api.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\jose-jwt.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Primitives.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\BL.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\BL.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\DTO.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\DTO.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\EntityFramework.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\EntityFramework.SqlServer.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Net.Http.Formatting.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.Cors.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Newtonsoft.Json.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Helpers.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Http.WebHost.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Mvc.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Optimization.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.Razor.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.Deployment.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Web.WebPages.Razor.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Antlr3.Runtime.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Dal.pdb
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Dal.dll.config
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Nexmo.Api.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Logging.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Primitives.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\obj\Debug\GUI.dll
+D:\users\user1\Desktop\שיעור 17 1\Food_Organizations\GUI\obj\Debug\GUI.pdb

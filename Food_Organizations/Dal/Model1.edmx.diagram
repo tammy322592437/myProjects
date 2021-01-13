@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ddb92c1759a94a6ab4d7c745be39e872" Name="Diagram1">
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Epicenter" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Food_Type" Width="1.5" PointX="3.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Meals_Menu" Width="1.5" PointX="6" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Needy" Width="1.5" PointX="5.25" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Organization" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Organization_Days" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Organizer" Width="1.5" PointX="5.25" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Selected_Menu_For_Help" Width="1.5" PointX="8.25" PointY="14.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Status_Food" Width="1.5" PointX="3.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Type_User" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.User" Width="1.5" PointX="3" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Volunteer" Width="1.5" PointX="5.25" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FoodOrganizationsModel.Volunteer_Organizations" Width="1.5" PointX="7.5" PointY="11.5" IsExpanded="true" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Epicenter_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Volunteer_Organizations_Epicenter" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Meals_Menu_Food_Type" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Meals_Menu_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Meals_Menu_Status_Food" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Selected_Menu_For_Help_Meals_Menu" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Needy_User" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Selected_Menu_For_Help_Needy" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Organization_Days_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Selected_Menu_For_Help_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_User_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Volunteer_Organizations_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Organizer_User" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Selected_Menu_For_Help_Organizer" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Selected_Menu_For_Help_Volunteer" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Volunteer_User" ManuallyRouted="false" />
+        <AssociationConnector Association="FoodOrganizationsModel.FK_Volunteer_Organizations_Volunteer" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

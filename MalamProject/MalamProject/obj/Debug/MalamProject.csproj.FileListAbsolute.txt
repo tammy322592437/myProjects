@@ -1,0 +1,14 @@
+D:\MalamProject\MalamProject\obj\Debug\MalamProject.csprojAssemblyReference.cache
+D:\MalamProject\MalamProject\obj\Debug\MalamProject.csproj.CoreCompileInputs.cache
+D:\MalamProject\MalamProject\bin\Debug\MalamProject.exe.config
+D:\MalamProject\MalamProject\bin\Debug\MalamProject.exe
+D:\MalamProject\MalamProject\bin\Debug\MalamProject.pdb
+D:\MalamProject\MalamProject\obj\Debug\MalamProject.exe
+D:\MalamProject\MalamProject\obj\Debug\MalamProject.pdb
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\bin\Debug\MalamProject.exe.config
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\bin\Debug\MalamProject.exe
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\bin\Debug\MalamProject.pdb
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\obj\Debug\MalamProject.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\obj\Debug\MalamProject.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\obj\Debug\MalamProject.exe
+D:\users\user1\Desktop\שיעור 17 1\MalamProject\MalamProject\obj\Debug\MalamProject.pdb
